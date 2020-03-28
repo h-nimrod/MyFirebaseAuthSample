@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyFirebaseAuthSample</string>
+
+    <string name="status_signed_in">Signed In</string>
+    <string name="status_signed_out">Signed Out</string>
     <string name="button_label_sign_out">Sign Out</string>
 </resources>
