@@ -48,6 +48,16 @@ Googleログイン認証を使うためにはSHA1のフィンガープリント�
 
 ![fingerprint](./docs/fingerprint.png)
 
+## Google Play アプリ署名(Google Play App Signing)を利用する場合
+
+Google Playアプリ署名を利用すると、上記の`signingReport`タスク確認した署名鍵とは別の鍵を用いてPlayストア側で再署名が行われます。
+
+そのため、FirebaseプロジェクトのSHA証明書フィンガープリントには、実際にPlayストアから配布されるアプリの署名鍵SHA-1フィンガープリントを登録する必要があります。
+
+対象のSHA-1フィンガープリントは、Google Play Consoleの「リリース管理」にある「アプリの署名」で確認することができます。
+
+![store_fingerprint](./docs/sha1_store.png)
+
 
 # スクリーンショット
 
