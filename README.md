@@ -1,3 +1,5 @@
+<a href='https://play.google.com/store/apps/details?id=com.hnimrod.myfirebaseauthsample&utm_source=github&utm_campaign=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" alt='Get it on Google Play' src='https://play.google.com/intl/us-en/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
 # MyFirebaseAuthSample
 
 Firebase AuthenticationによりGoogleログインを使用して認証するサンプル（デモ）アプリです。
@@ -64,7 +66,3 @@ Google Playアプリ署名を利用すると、上記の`signingReport`タスク
 |未ログイン状態|ログイン状態|
 |---|---|
 |![signed out](./docs/screenshot1.png)|![signed in](./docs/screenshot2.png)|
-
-# Google Play
-
-<a href='https://play.google.com/store/apps/details?id=com.hnimrod.myfirebaseauthsample&utm_source=github&utm_campaign=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" alt='Get it on Google Play' src='https://play.google.com/intl/us-en/badges/static/images/badges/en_badge_web_generic.png'/></a>
